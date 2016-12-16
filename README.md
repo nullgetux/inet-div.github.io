@@ -1,2 +1,2 @@
-# [UKM IPTEK](ukmiptek.or.id)
-# [IPTEK iNET Division](inet.ukmiptek.or.id)
+# [UKM IPTEK](http://ukmiptek.or.id)
+# [IPTEK iNET Division](http://inet.ukmiptek.or.id)
